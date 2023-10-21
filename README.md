@@ -1,6 +1,6 @@
 [Again](https://wynwilla.github.io)
 ================================
-This is a personal blog of WYN  
+This is my personal blog 
 
 ```sh
 print("Hello World!")
