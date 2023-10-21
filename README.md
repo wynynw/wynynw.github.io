@@ -10,8 +10,8 @@ print("Hello World!")
 
 ### What you may see here
 
-1. Personal Configuration
+1. Configuration Notes
 
-2. Experience and Life
+2. My Experience and Life
 
 
