@@ -1,4 +1,4 @@
-[Again](https://wynwilla.github.io)
+[Again](https://wynynw.github.io)
 ================================
 This is my personal blog 
 
@@ -10,8 +10,6 @@ print("Hello World!")
 
 ### What you may see here
 
-1. Configuration Notes
-
-2. My Experience and Life
+Configuration Docs
 
 
