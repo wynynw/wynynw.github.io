@@ -2,7 +2,7 @@
 title: Again
 SEOTitle: Again@wyn's blog
 header-img: img/home-bg.jpg
-email: wang.yinan3@northeastern.edu
+email: yinanwangw@gmail.com
 description: "Has your journey been good? Has it been worthwhile?"
 keyword: ""
 #url: ""              # your host, for absolute URL
@@ -13,12 +13,12 @@ future: true
 
 # SNS settings
 #RSS: false
-#weibo_username:     huxpro
-#zhihu_username:     huxpro
-github_username:    wynwilla
-#twitter_username:  huxpro
-#facebook_username:  huxpro
-#linkedin_username:  firstname-lastname-idxxxx
+#weibo_username:     
+#zhihu_username:     
+github_username:    wynynw
+#twitter_username:  
+#facebook_username:  
+#linkedin_username:  
 
 
 
@@ -71,8 +71,8 @@ netease_comment: false
 # ba_track_id: [your track id]
 
 # Google Analytics
-ga_track_id: 'G-3JXHZETCYW'            # Format: UA-xxxxxx-xx
-ga_domain: auto
+# ga_track_id: 'G-3JXHZETCYW'            # Format: UA-xxxxxx-xx
+# ga_domain: auto
 
 
 

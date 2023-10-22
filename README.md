@@ -10,7 +10,7 @@ print("Hello World!")
 
 ### What you may see here
 
-1. Configuration Docs
+1. Configuration Notes
 
 2. My Experience and Life
 
